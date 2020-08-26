@@ -1,0 +1,13 @@
+C:\Users\sever\workspace\csharp-book1-chap13-classbasics\bin\Debug\netcoreapp3.1\csharp-book1-chap13-classbasics.exe
+C:\Users\sever\workspace\csharp-book1-chap13-classbasics\bin\Debug\netcoreapp3.1\csharp-book1-chap13-classbasics.deps.json
+C:\Users\sever\workspace\csharp-book1-chap13-classbasics\bin\Debug\netcoreapp3.1\csharp-book1-chap13-classbasics.runtimeconfig.json
+C:\Users\sever\workspace\csharp-book1-chap13-classbasics\bin\Debug\netcoreapp3.1\csharp-book1-chap13-classbasics.runtimeconfig.dev.json
+C:\Users\sever\workspace\csharp-book1-chap13-classbasics\bin\Debug\netcoreapp3.1\csharp-book1-chap13-classbasics.dll
+C:\Users\sever\workspace\csharp-book1-chap13-classbasics\bin\Debug\netcoreapp3.1\csharp-book1-chap13-classbasics.pdb
+C:\Users\sever\workspace\csharp-book1-chap13-classbasics\obj\Debug\netcoreapp3.1\csharp-book1-chap13-classbasics.csprojAssemblyReference.cache
+C:\Users\sever\workspace\csharp-book1-chap13-classbasics\obj\Debug\netcoreapp3.1\csharp-book1-chap13-classbasics.AssemblyInfoInputs.cache
+C:\Users\sever\workspace\csharp-book1-chap13-classbasics\obj\Debug\netcoreapp3.1\csharp-book1-chap13-classbasics.AssemblyInfo.cs
+C:\Users\sever\workspace\csharp-book1-chap13-classbasics\obj\Debug\netcoreapp3.1\csharp-book1-chap13-classbasics.csproj.CoreCompileInputs.cache
+C:\Users\sever\workspace\csharp-book1-chap13-classbasics\obj\Debug\netcoreapp3.1\csharp-book1-chap13-classbasics.dll
+C:\Users\sever\workspace\csharp-book1-chap13-classbasics\obj\Debug\netcoreapp3.1\csharp-book1-chap13-classbasics.pdb
+C:\Users\sever\workspace\csharp-book1-chap13-classbasics\obj\Debug\netcoreapp3.1\csharp-book1-chap13-classbasics.genruntimeconfig.cache
